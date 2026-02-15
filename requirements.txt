@@ -6,3 +6,7 @@ google-generativeai
 python-dotenv
 pydantic
 httpx
+streamlit
+plotly
+pandas
+requests
